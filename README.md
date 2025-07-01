@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Simon</h1>
-<h3 align="center">Data backend developers from China</h3>
+<h3 align="center">Data backend developers </h3>
 
 - 🔭 I’m currently working on **Cognizant**
 
